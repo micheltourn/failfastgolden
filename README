@@ -1,0 +1,1 @@
+A golden-file comparator that calls Assert.fail as soon as a differing silver line is emitted.
